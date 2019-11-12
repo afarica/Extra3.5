@@ -1,3 +1,4 @@
+# Напишите функцию которая находит самою длинную слово в строке.
 string=input("Enter the string:").split()
 i=0
 for word in string:
